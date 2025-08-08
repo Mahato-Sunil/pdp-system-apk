@@ -106,7 +106,7 @@ Accuracy may vary based on lighting, camera quality, and plant condition.
 
 ## 📥 Download APK
 
-🔗 [**Download Latest APK**](https://github.com/Mahato-Sunil/pdp-system-apk/releases/tag/v1.0.0-alpha)
+🔗 [**Download Latest APK**](https://github.com/Mahato-Sunil/pdp-system-apk/releases/tag/apk)
 
 ---
 
